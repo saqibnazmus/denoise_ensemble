@@ -51,3 +51,5 @@ To get the results of the testing procedure, write the following on your command
 ```
 python test_dnd.py"
 ```
+## Synthetic results 
+We have uploaded here our synthetic results on BSD68, Kodak24, and Urban100 datasets. Our SIDD benchmark and validation datasets will be published later. 
